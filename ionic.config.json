@@ -1,0 +1,8 @@
+{
+  "name": "azar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fdd35cdf"
+}
